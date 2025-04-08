@@ -18,6 +18,11 @@
 
 The goal of this project was to conduct a comprehensive analysis of sales data for shoes retailers in the USA, spanning the years 2022 and 2023. The analysis aimed to assess the retailer's performance across different regions, states, and sales methods, with a focus on key metrics such as Revenue, Units Sold, Expenses, and Profit. The final deliverable was to provide actionable insights that could inform sales strategies, inventory management, and marketing initiatives.
 
+
+![first dashboard](https://github.com/user-attachments/assets/fa251c37-d7da-48d9-be55-24dacfbb4759)
+
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "Shoe_sales_USA.CSV" file, containing detailed information about each sales made by six different retailers in the USA.
@@ -50,14 +55,31 @@ Dataset: The dataset contains 9640 rows and 13 columns as listed below:
 4. Some columns were transformed to ensure consistency. For example, dates were standardized, and numeric values were verified for correctness and consistency across the dataset.
 5. New columns were created to calculate key performance indicators such as profit and profit margin.
 
+![Screenshot 2025-04-06 220846](https://github.com/user-attachments/assets/4b6ec34d-dbbd-43a5-9f8c-3a70ab4ca30c)
+
+
 ### Exploratory Data Analysis
 
 EDA involved exploring the Shoes sales data to answer key question, such as:
 
 - What is the overall Retailers sales performance?
+
+![Screenshot 2025-04-08 053613](https://github.com/user-attachments/assets/65889e0c-06c4-4ed8-b84a-aaa41f87bc98)
+
+
 - Which products are top sellers?
+
+![Screenshot 2025-04-06 230740](https://github.com/user-attachments/assets/248a2847-f7ac-465f-9efc-31a8d2634b2b)
+
 - What are the peak sales periods?
+
+![Screenshot 2025-04-08 054205](https://github.com/user-attachments/assets/e98f509b-ef2a-4cc9-8e1c-f65c649113ac)
+
+
 - What are the sales performance accross different regions and states?
+
+![Screenshot 2025-04-08 050704](https://github.com/user-attachments/assets/63b4a075-14fe-4e0d-899e-3e0d65348543)
+
 
 ### Data Analysis
 
